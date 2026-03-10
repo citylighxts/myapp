@@ -12,6 +12,8 @@ For **commit** "final code reference" code, here is the screenshot:
 
 ## Widget Explanation (main.dart)
 
+<img width="507" height="973" alt="Screenshot 2026-03-10 at 11 34 15" src="https://github.com/user-attachments/assets/5ddeeed6-908f-45a2-850a-6fcf9271cdbd" />
+
 ### Custom Widgets
 
 #### 1. **MyApp** (StatelessWidget)
